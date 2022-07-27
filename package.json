@@ -1,0 +1,26 @@
+{
+  "name": "micro-api",
+  "version": "1.0.0",
+  "description": "micro-api based on nodeJs vanilla",
+  "main": "app",
+  "scripts": {
+    "dev": "nodemon app",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr93562/microservice-auth.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "François Macko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fr93562/microservice-auth/issues"
+  },
+  "homepage": "https://github.com/Fr93562/microservice-auth#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
